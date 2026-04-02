@@ -12,3 +12,21 @@ O projeto consiste na ideia de um aplicativo que funciona como um mapa de oportu
 - Anita
 - Ana Julia
 - Laura
+- 
+## Funcionalidades
+- Visualização de vagas próximas
+- Filtros de busca
+- Conexão entre usuários e empresas
+
+## Público-alvo
+- Jovens
+- Pessoas de baixa renda
+- Trabalhadores informais
+
+## Tecnologias (planejadas)
+- Aplicativo mobile
+- Banco de dados MySQL
+
+## Organização
+- Uso do Trello
+- Divisão de tarefas entre integrantes
